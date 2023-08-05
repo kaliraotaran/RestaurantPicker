@@ -1,17 +1,10 @@
 # restaurant_picker
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# RestaurantPicker
+
+https://github.com/kaliraotaran/RestaurantPicker/assets/81376236/8a42680d-877c-4212-9a9f-f35ab72b87f4
+
